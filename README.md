@@ -11,3 +11,5 @@ npm start
 Runs the app in the development mode.<br />
 Open [http://localhost:3000/sample](http://localhost:3000/sample) to view it in the browser.
 
+![Demo](https://raw.githubusercontent.com/prabhuinbarajan/basic-react-app/master/public/css.gif)
+
